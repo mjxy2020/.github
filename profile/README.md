@@ -1,12 +1,19 @@
 ## 莫学习 - 专注云计算领域相关技术， 欢迎大家免费加入一起进步 👋
 
-<!--
+### 时间
+- aws: 北京时间： 20:30 - 22:00 
+- k8s: 北京时间： 07:00 - 08:00 
 
-**Here are some ideas to get you started:**
+### Zoom会议地址：                     
+🍡 https://bit.ly/3JQR5uP    
+---
+                                                  
+### aws youtube高清合集地址：          
+🍡 https://bit.ly/xiaomo-aws   
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+                                                  
+### aws 哔哩哔哩高清录屏回放：    
+🍡 https://b23.tv/NSgui3m           
+---
